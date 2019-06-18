@@ -1,7 +1,8 @@
-# clase 19_05_30
+# Clase 2019_06_06
 
-en la clase se ejecutaran los programas que se mostraron en los videos.
-a continuacion se mostrara como se compila cada uno de los codigos.
+En la clase de hoy se ejecutarán los programas que se mostraron en los 
+videos. A continuación se mostrará como se compila cada uno de esos 
+códigos.
 
 ## cpu.c
 
@@ -10,5 +11,4 @@ a continuacion se mostrara como se compila cada uno de los codigos.
 ## threads.c
 
 ## io.c
-
 
